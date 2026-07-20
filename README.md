@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Sorting
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0950-reveal-cards-in-increasing-order) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/DravyaShah/LLeetCode-1700/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
